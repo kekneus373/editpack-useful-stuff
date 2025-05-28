@@ -7,7 +7,7 @@ A collection of scripts for working with video and audio files, including conver
 --------------------
 
 * [Scripts](#scripts)
-* [Quick commands](#Quick commands)
+* [Quick commands](#Quick-commands)
 * [Resources](#resources)
 
 ### Scripts
