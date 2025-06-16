@@ -8,7 +8,7 @@ A collection of scripts for working with video and audio files, including conver
 --------------------
 
 * [Scripts](#scripts)
-* [Quick commands](#quick-commands,-guides)
+* [Quick commands, guides](#quick-commands,-guides)
 * [Resources](#resources)
 
 ### Scripts
@@ -42,9 +42,11 @@ A list of available scripts:
 Easy copy-paste commands and guides for installing FFmpeg, downloading copyright-free music from the famous video platform and fixing specific device issues:
 
 * `readme-ffmpeg-vistab.md` *- Set up your environment to stabilize videos. Windows included;*
-* `readme-compress-ffmpeg-multitasking.md` *- Compress videos in the background and keep working without utilizing entire CPU;*
+* `readme-compress-ffmpeg-multitasking.md` *- Compress videos in the background and keep working without utilizing the entire CPU;*
 * `readme-use-yt-dlp-to-download-music.txt` *- Use this powerful tool to download background music you need. Even cut out some track from a mix;*
-* `readme-fix-kazam-screencast-audio-delay.png` *- Synchronize audio stream in a laggy screen recording made with Kazam in Kdenlive. A bit strange at first, but looking a bit closer will tell you how it's done.*
+* `readme-fix-kazam-screencast-audio-delay.png` *- Synchronize audio stream in a laggy screen recording made with Kazam in Kdenlive. A bit strange at first, but looking a bit closer will tell you how it's done;*
+* `use-aexciter.md` *- Make audio worse and hissy, like from a bad microphone;*
+* `use-pitch.md` *- Guide to pitch the voice with FFmpeg.*
 
 ### Resources
 --------------
