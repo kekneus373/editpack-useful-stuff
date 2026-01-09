@@ -12,7 +12,7 @@ echo "Choose audio codec:"
 select profile in "AAC - for MP4 videos" "MP3 - very flexible" "WAV - clean sound" "OGG - open source"; do
     case $REPLY in
         1) c=aac; o=m4a; break ;;
-        2) c=mp3; o=$c; break ;;
+        2) c=mp3; o=mp3; break ;;
         3) c=pcm_s16le; o=wav; break ;;
         4) c=libvorbis; o=ogg; break ;;
         *) echo "Invalid option." ;;
