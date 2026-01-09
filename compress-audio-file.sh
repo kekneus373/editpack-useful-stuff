@@ -22,6 +22,5 @@ read -p "Set the audio bitrate (e.g. 128k): " ba
 
 # Run ffmpeg command to take action for every file there
 ffmpeg -i "$input_file" -c:v copy -c:a "$c" -b:a "$ba" -ar "$ar" "${input_file%.*}-a${input_file##*.}"
-done
 
 echo "================ Processing complete ================"
