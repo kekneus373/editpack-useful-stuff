@@ -26,6 +26,6 @@ read -p "Set the audio bitrate (e.g. 128k): " ba
 read -p "Set the audio sample rate (e.g. 44100): " ar
 
 # Run ffmpeg command to take the action for every file there
-for i in *."$extin"; do ffmpeg -i "$i" -c:a "$c" -b:a "$ba" -ar "$ar" converted/"${i%.*}.$o"; done
+for i in *."$extin"; do ffmpeg -i "$i" -vn -c:a "$c" -b:a "$ba" -ar "$ar" converted/"${i%.*}.$o"; done
 
 echo "================ Processing complete ================"
