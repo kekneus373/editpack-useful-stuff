@@ -33,7 +33,6 @@
   + 📹 Finding specific video types (logging included): `list-selected-aspect-ratio-videos.sh`;
   + 🗒️ Removing unwanted metadata: `remove-music-covers.sh`;
   + ✂️ Just trimming (w/o OP editors): `trim.sh`;
-  + 
   + 🧮 Calculating the entire media duration in given directory: `calculate-media-duration.sh`.
 
 ### 🔳 Quick commands, guides
