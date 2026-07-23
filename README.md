@@ -40,14 +40,14 @@
 
 📋 Easy copy-paste commands and guides for installing FFmpeg, downloading copyright-free music from the *famous video platform* and fixing device-specific issues:
 
-* 📸 `ffmpeg-q-parameter.md` *- About the `q` parameter in ffmpeg and how to use it effectively;*
-* 🪇 `ffmpeg-vistab.md` *- Set up your environment to stabilize videos. Windows included;*
-* 🤹 `compress-ffmpeg-multitasking.md` *- Compress videos in the background and keep working without utilizing the entire CPU;*
-* 🎙️ `readme-use-yt-dlp-to-download-music.txt` *- Use this powerful tool to download background music you need. Even cut out some track from a mix;*
-* 🖥️ `readme-fix-kazam-screencast-audio-delay.png` *- Synchronize audio stream in a laggy screen recording made with Kazam in Kdenlive (try to get it);*
-* 🖥️ `scale-video-dimensions.md` *- For manual video processing or calculating new project dimensions;*
-* 🔉 `use-aexciter.md` *- Make audio worse and hissy, like from a bad microphone;*
-* 🎤 `use-pitch.md` *- Guide to pitch the voice with FFmpeg.*
+* 🔩 Learn how to streamline your workflow with optimized FFmpeg configurations: `ffmpeg-compress-multitasking.md`;
+* 📈 Get the most out of AEXCiter's features with my comprehensive guide: `ffmpeg-aexciter-cli.md`;
+* 🎵 Understand the ins and outs of FFmpeg's pitch adjustment: `ffmpeg-pitch-cli.md`;
+* 💡 Quick reference guide to FFmpeg's Q-parameter settings: `ffmpeg-q-parameter.md`;
+* 🔍 Dive deep into the world of VidStab with this expert guide: `ffmpeg-vidstab-guide-cli.md`;
+* 💻 Resolve audio sync issues with these easy steps: `kazam-screencast-audio-delay-fix.png`;
+* 📊 Learn how to resize video frames without losing quality: `scale-video-dimensions.md`;
+* 🚀 Get started with yt-dlp, the ultimate video downloader: `yt-dlp-guide.md`.
 
 ### 📦 Resources
 --------------
