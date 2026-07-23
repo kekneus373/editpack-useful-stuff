@@ -1,3 +1,5 @@
+# Keep doing work while `ffmpeg` is cooking in the back 👌
+
 ```bash
 ffmpeg -i input.mp4 -c:v libx264 -preset veryslow -b:v 5000k -r 25 -s 1280x720 -profile:v baseline -c:a copy -threads 1 output.mp4
 ffmpeg -i input.mp4 -c:v libx264 -preset medium -b:v 5000k -r 25 -s 1280x720 -profile:v baseline -c:a copy -threads 1 output.mp4
@@ -16,4 +18,3 @@ Explanation:
 - `-threads 1`: Limits the number of threads to 1 for encoding.
 
 Replace `input.mp4` with the name of your input video file, and adjust the output file name and parameters according to your needs.
-
