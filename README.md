@@ -1,4 +1,3 @@
-
 **Media File Toolbox 🎥**
 ==========================
 
@@ -33,7 +32,8 @@
   + 📹 Finding specific video types (logging included): `list-selected-aspect-ratio-videos.sh`;
   + 🗒️ Removing unwanted metadata: `remove-music-covers.sh`;
   + ✂️ Just trimming (w/o OP editors): `trim.sh`;
-  + 🧮 Calculating the entire media duration in given directory: `calculate-media-duration.sh`.
+  + 🧮 Calculating the entire media duration in given directory: `calculate-media-duration.sh`;
+  + 📝 Convert filenames to lowercase with hyphens for repo archival compatibility: `rename-safe-ng.sh`.
 
 ### 🔳 Quick commands, guides
 ----------------
@@ -63,4 +63,3 @@
 * 🔔 Funny sounds from a cheap Chinese feature phone (Nomi i220): `call-ended.mp3`, `nomi-i220-call-sound.mp3`, `nomi-sms.mp3`.
 
 Hope you'll find my collection useful. Have a nice day! 👌
-(67th line 💀🥀)
